@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# END OF TEMPLATE
+
+# config files containing Discord access token
+config/production.json

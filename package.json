@@ -1,0 +1,31 @@
+{
+  "name": "discord-soundboard",
+  "version": "1.0.0",
+  "description": "Discord bot that can play any local or external audio controllable by a REST API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutger0000/Discord-Soundboard.git"
+  },
+  "keywords": [
+    "Discord",
+    "soundboard",
+    "REST",
+    "API",
+    "Discordjs"
+  ],
+  "author": "Rutger Berns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rutger0000/Discord-Soundboard/issues"
+  },
+  "homepage": "https://github.com/Rutger0000/Discord-Soundboard#readme",
+  "dependencies": {
+    "config": "^3.3.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  }
+}
